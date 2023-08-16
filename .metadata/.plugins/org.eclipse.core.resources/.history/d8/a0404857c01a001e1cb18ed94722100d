@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+/* Configuração geral do corpo da página */
+
+body{
+	margin: 0 auto;
+	font-family: "Century Gothic", sans-serif;
+}
+
+/* **********************
+	Configurações gerais
+	**********************
+	
+	Cabeçalho */
+	
+	
+	
+	
+	
+	header h1{
+	float: left;
+	margin:50px 0 0 30px;
+	font-size:60 px;
+	color:#ffffff;
+	}
